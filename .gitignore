@@ -1,4 +1,17 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and credentials
 .env
 token.json
 credentials.json
 
+# Data directories
+data/raw/
+logs/
+
+# VSCode settings
+.vscode/
