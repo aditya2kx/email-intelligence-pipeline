@@ -1,0 +1,11 @@
+{
+  "python.pythonPath": "venv/bin/python",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "python.formatting.provider": "black",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "venv": true
+  }
+}
